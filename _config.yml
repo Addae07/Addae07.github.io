@@ -1,11 +1,11 @@
 # Site settings
-author: William Lawrence
-title: 
+author: Will Lawrence
+title: Will's future in coding
 header-img: img/home-bg.png
 email: will.lawrence.3rd@gmail.com
-copyright_name: William Lawrence
+copyright_name: Will Lawrence
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: DanceKwesi
 github_username:  Addae07
